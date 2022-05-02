@@ -1,0 +1,5 @@
+\beta 0.5
+\gamma 0.16667
+\h 0.003428
+\d 0.025
+\stochastic_noise_fraction 0.02

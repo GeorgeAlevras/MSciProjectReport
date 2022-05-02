@@ -1,0 +1,11 @@
+\beta 0.26
+\theta 0.25
+\iota 0.24
+\kappa 0.23
+\lambda 0.23
+\mu 0.21
+\nu 0.16
+\gamma 0.16667
+\h 0.003428
+\d 0.025
+\stochastic_noise_fraction 0.02

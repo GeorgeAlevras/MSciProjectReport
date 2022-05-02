@@ -1,0 +1,2 @@
+First 'successful' run of adaptive learning using the transpose of the matrix of eigenvectors
+in order to perform the transformation of the vector of steps along the eigenvectors.

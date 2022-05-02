@@ -1,0 +1,2 @@
+Command: python3 produce_chains.py -w 0.2 -c 12 -i 120000 -su 100 -dc 50
+

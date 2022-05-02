@@ -1,0 +1,4 @@
+\population 67081000
+\infected 167703
+\natural_immunity 0
+\days 127

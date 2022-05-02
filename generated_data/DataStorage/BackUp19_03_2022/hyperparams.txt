@@ -1,0 +1,4 @@
+\population 1000000
+\infected 1000
+\natural_immunity_rate 0
+\days 50
